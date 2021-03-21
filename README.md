@@ -1,3 +1,3 @@
-# DEMO RESOSITORY
+# DEMO REPOSITORY
 
 description here
