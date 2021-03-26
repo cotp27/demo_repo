@@ -1,0 +1,48 @@
+# clonas tu carpetade github a tu pc
+
+git clone https://github.com/cotp27/demo_repo.git
+
+# copiar la direccion q deseas clonar en tu espacio local
+
+cd <ir a la carpeta >
+
+# ver los detalles de esa carpeta
+ls -la 
+
+# ver el estado de esa carpeta
+git status 
+
+# adicionar los cambios a tu espacio local 
+git add .  # el punto indica adicionar todo 
+
+# ver el estado de esa carpeta
+git status 
+
+# se adiciona un comentario entre comillas
+git commit -m "created index.html and modificated readme"
+
+# adicionar el cambio al github
+git push origin main  # colocar el cambio en github
+
+#desea saber en q rama estoy
+git branch # el * indica la rama en la q estoy
+
+# deseo crear una nueva rama 
+git checkout -b <nombre de la nueva rama>
+
+#desea saber en q rama estoy
+git branch 
+
+# para ir a la otra rama
+git checkout main
+
+#desea saber en q rama estoy
+git branch 
+
+# para ir a la otra rama
+git checkout feature-readme
+
+#desea saber en q rama estoy
+git branch 
+
+# escribo en el readme
