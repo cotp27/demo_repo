@@ -8,5 +8,5 @@ local demo
 
 ## created new branch
 
-fromnew branch
+from new branch
 
