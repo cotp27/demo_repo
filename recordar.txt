@@ -46,3 +46,35 @@ git checkout feature-readme
 git branch 
 
 # escribo en el readme
+----------------------------
+## create neew branch
+from new branch
+------------------------------
+# veo el estado actual
+git status
+
+# adiciono todos los cambios
+git add .
+
+# veo el estado actual
+git status
+
+# adiciono un comentario 
+git commit -m "update "readme"
+
+#cambiando de branch
+git checkout main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
